@@ -1,0 +1,49 @@
+body{
+   background-color: #1e1e1e;
+   
+
+}
+h1{ color: #f8f4f4;}
+
+.header-main{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    display: flex;
+justify-content: space-between;
+}
+.header-main-logo{
+width: 120px;
+height: 100%;
+background-color: #50C878;
+
+
+
+}
+
+.header-main-logo img{  
+ height: 30px;
+ width: 40px;
+
+}
+
+.header-main-nav{
+    width: 120px;
+    height: 100%;
+    background-color: rgb(34, 0, 255)255, 217, 0;
+
+
+    
+}
+
+.header-main-sm{
+    width: 120px;
+height: 100%;
+background-color: #FF2400;
+
+}
+
+.header-main-nav{
+list-style-type: style type:none;
+
+}
